@@ -51,7 +51,7 @@ Ahora en ***negrita y cursiva*** o bien ___negrita+cursiva___.
 Si lo queremos como elemento de línea [batoi](http://www.cipfpbatoi.es) entonces sería clicar e ir.  
 Si ahora lo queremos como "referencia" tendremos que poner [google][url_google] para después escribir lo que queramos y poner  
   
-  
+Aqui pondremos más texto  
 [url_google]: https://www.google.es  
 Ahora un enlace automático <http://marca.es>  
 #### Para el código  
