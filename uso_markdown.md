@@ -49,7 +49,10 @@ Queremos una palabra en cursiva con *asteriscos* y con _subiguiones_ y otra en *
 Ahora en ***negrita y cursiva*** o bien ___negrita+cursiva___.  
 #### Links o enlaces  
 Si lo queremos como elemento de línea [batoi](http://www.cipfpbatoi.es) entonces sería clicar e ir.  
-Si ahora lo queremos como "referencia" tendremos que poner [google][url_google] para después escribir lo que queramos y poner [url_google]: https://www.google.es  
+Si ahora lo queremos como "referencia" tendremos que poner [google][url_google] para después escribir lo que queramos y poner  
+  
+  
+[url_google]: https://www.google.es  
 Ahora un enlace automático <http://marca.es>  
 #### Para el código  
 Pondremos ![No se encuentra la imagen](50x50.gif) entonces se mostrará el texto si no se encuentra la imágen.  
