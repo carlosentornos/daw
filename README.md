@@ -1,7 +1,11 @@
 # daw
 proyecto final de curso
 
-Finalizado el segundo curso de daw, realizaré pruebas para ver cómo funciona GitHub
+Finalizado el segundo curso de daw, pasamos a las prácticas de empresa en AITEX.
 
-www.cipfpbatoi.es
+Las herramientas utilizadas por el alumno han sido:
+* Node js.
+* React js.
+* Visual Studio Express.
+
 
