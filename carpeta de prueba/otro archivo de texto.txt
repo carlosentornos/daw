@@ -1,0 +1,2 @@
+otra prueba de un fichero de texto dentro de una subcarpeta que está
+dentro de la carpeta del repositorio
