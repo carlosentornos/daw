@@ -16,10 +16,15 @@ Encabezado2
 __negrita__  
 *cursiva*  
 _cursiva_  
+
 ++subrayado++  
-~~~tachado~~~  
+
+~~tachado~~ 
+
 ==resaltado==    
+
 ^superíndice^  
+
 ~Subíndice~  
 
 Imagen con propiedades CSS  
