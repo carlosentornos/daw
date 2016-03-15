@@ -71,7 +71,7 @@ Ahora insertamos código usando el editor:
 [![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")  
 
 
-Ecuaciones y fórmulas matemáticas
+Ecuaciones y fórmulas matemáticas  
 $$
 \begin{aligned}
 \dot{x} & = \sigma(y-x) \\
