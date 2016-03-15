@@ -135,6 +135,7 @@ Tabla de contenidos, recoge los encabezados ya introducidos y los muestra, podem
 
 [TOC]
 
+
 Para comentarios utilizaremos `<!-- -->` para que no se muestre después en la ventana del navegador cuando se visualice la página.
 
 Para el texto preformateado, pondremos delante de cada línea cuatro espacios:
