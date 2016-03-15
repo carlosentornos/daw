@@ -28,7 +28,7 @@ Podremos utilizar las propiedades "width", "height", "float" para situar la imag
 
 Para el logotipo de nuestra empresa o proyecto:  
 
-![logo_aitex.png](logo_aitex.png "Logotipo de Aitex" "width:70px")
+![logo_aitex.png](logo_aitex.png "Logotipo de Aitex" "width:50px")  
 
 
 IMAGEN+VIDEO EMBEBIDO  
