@@ -68,4 +68,4 @@ Ahora insertamos código usando el editor:
 }
 ```
 
-@[youtube](https://www.youtube.com/watch?v=Mfmf83XC5Uw)
+[curso javascript 1](https://www.youtube.com/watch?v=Mfmf83XC5Uw)
