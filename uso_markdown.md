@@ -72,5 +72,10 @@ Ahora insertamos código usando el editor:
 
 
 Ecuaciones y fórmulas matemáticas
-
-(E=mc^2)，$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
+$$
+\begin{aligned}
+\dot{x} & = \sigma(y-x) \\
+\dot{y} & = \rho x - y - xz \\
+\dot{z} & = -\beta z + xy
+\end{aligned} 
+$$
