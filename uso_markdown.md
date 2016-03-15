@@ -68,4 +68,6 @@ Ahora insertamos código usando el editor:
 }
 ```
 
-[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")  
+
+!![560x315](//www.youtube.com/embed/5xK8RK54IAc)
