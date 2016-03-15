@@ -24,7 +24,7 @@ _cursiva_
 
 Imagen con propiedades CSS  
 Podremos utilizar las propiedades "width", "height", "float" para situar la imagen y darle un tamaño:  
-![imagen.png](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg "imagen de prueba" "width:220px;clear:both")  
+![imagen.png](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg "imagen de prueba" "width:120px;clear:both")  
 
 Para el logotipo de nuestra empresa o proyecto:  
 
