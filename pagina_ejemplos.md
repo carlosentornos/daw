@@ -18,7 +18,7 @@ __negrita__
 _cursiva_  
 ++subrayado++  
 ~~tachado~~  
-==resaltado==  
+==resaltado==    
 ^superíndice^  
 ~Subíndice~  
 
