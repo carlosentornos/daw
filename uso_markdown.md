@@ -71,6 +71,6 @@ Ahora insertamos código usando el editor:
 [![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")  
 
 
-@[caption](content-url 'stylesheets')
-@[](http://www.youtube.com/watch?v=jo_B4LTHi3I)
-@[](http://www.flickr.com/photos/bees/2362225867/ 'width:300px')
+@[caption](content-url 'stylesheets')  
+@[](http://www.youtube.com/watch?v=jo_B4LTHi3I)  
+@[](http://www.flickr.com/photos/bees/2362225867/ 'width:300px')  
