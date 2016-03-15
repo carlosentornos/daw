@@ -68,4 +68,4 @@ Ahora insertamos código usando el editor:
 }
 ```
 
-[curso javascript 1](https://www.youtube.com/watch?v=Mfmf83XC5Uw)
+[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
