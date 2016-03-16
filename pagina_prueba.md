@@ -63,11 +63,11 @@ En un principio podríamos haber utilizado [Reactjs.Net][enlaceREACTJSNET], pero
 	+ [Instalar Node.js Tools en Visual Studio](visualStudio/pluginNodejs.md)  
 
 ##Referencias
-+ [Documentación de Node.js](https://nodejs.org/dist/latest-v4.x/docs/api/)
-+ [Obtener Visual Studio Express](https://www.visualstudio.com/es-es/features/node-js-vs.aspx)
++ [Documentación de Node.js](https://nodejs.org/dist/latest-v4.x/docs/api/):target="_blank"
++ [Obtener Visual Studio Express](https://www.visualstudio.com/es-es/features/node-js-vs.aspx){:target="_blank"}
 
 <!-- Referencias y enlaces utilizados en el texto -->
-[enlacePHP]:http://php.net/manual/es/index.php
+[enlacePHP](http://php.net/manual/es/index.php){:target="_blank"}
 [enlaceJ2EE]:http://www.oracle.com/technetwork/java/javaee/overview/index.html
 [enlaceASPNET]:http://www.asp.net/
 [enlaceJQUERY]:http://jquery.com/
