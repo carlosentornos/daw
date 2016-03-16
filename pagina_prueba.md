@@ -1,3 +1,4 @@
+
 #Proyecto departamento de desarrollo con Node.js + .NET
 
 ##Introdución
@@ -29,7 +30,8 @@ En nuestro caso hemos visto [Angular.js][enlaceANGULAR] (con [Pedro Hurtado][enl
 ####Uso de Visuatl Studio + Reasct.js
 En un principio podríamos haber utilizado [Reactjs.Net][enlaceREACTJSNET], pero queríamos aprovechar las sinergias del opensource y no tener ataduras en el front-end.  
 
-Enlace prueba 1 [Googgle.es](http://www.google.es "titulo" target="_blank")  
+[Link](https://example.org/ "title" target="_blank")  
+Enlace prueba 1 [Googgle.es](http://www.google.es target="_blank")  
 Enlace de prueba [linkPRUEBA](http://www.cipfpbatoi.es "" target="_blank")
 
 ##Tecnologías utilizadas
