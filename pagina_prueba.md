@@ -1,2 +1,6 @@
 
 #Proyecto 
+
+:octocat:
+:birthday:
+:start:
