@@ -61,7 +61,7 @@ En nuestro caso hemos visto [Angular.js][enlaceANGULAR] (con [Pedro Hurtado][enl
 + [Obtener Visual Studio Express](https://www.visualstudio.com/es-es/features/node-js-vs.aspx)
 
 <!-- Referencias y enlaces utilizados en el texto -->
-[enlacePhp]:(http://php.net/manual/es/index.php)
+[enlacePhp]:http://php.net/manual/es/index.php
 [enlaceJ2EE]:(http://www.oracle.com/technetwork/java/javaee/overview/index.html)
 [enlaceASPNET]:(http://www.asp.net/)
 [enlaceJQUERY]:(http://jquery.com/)
