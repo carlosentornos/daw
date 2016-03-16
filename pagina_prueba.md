@@ -40,7 +40,7 @@ En un principio podríamos haber utilizado [Reactjs.Net][enlaceREACTJSNET], pero
 
 [prueba]: https://example.org/ "title" target="_blank"   
 
-Enlace prueba 1 [Googgle.es](http://www.google.es target="_blank" rel="nofollow")  
+Enlace prueba 1 [Googgle.es](http://www.google.es target="_blank")  
 Enlace de prueba [linkPRUEBA](http://www.cipfpbatoi.es "" target="_blank")
 
 ##Tecnologías utilizadas
