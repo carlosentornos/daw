@@ -17,7 +17,7 @@ __negrita__
 *cursiva*  
 _cursiva_  
 
-++subrayado++  
++subrayado+
 
 ~~tachado~~ 
 
