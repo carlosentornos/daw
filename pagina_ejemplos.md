@@ -112,7 +112,7 @@ $x^2$ or $$x^2$$
 Tablas  
 Pondremos los ":" para alinear el contenido de las columnas, podremos poner dentro de las columnas además del texto, imágenes, etc. Utilizaremos los "-" para separar la cabecera de la tabla de las celdas y con "|" delimitaremos dichas celdas.
 
-| column A| column B |column C|
+| column A fsdf sdf sdfdsf sdfqwee fasd | dasd asdasd asdasd reqwe eqwe column B |columneyrytytytytytytytytytytytytyt C|
 |:--------|:--------:|--------:|
 |1234 | 1234|abcd |
 |zxcv| bnm| qwer|
